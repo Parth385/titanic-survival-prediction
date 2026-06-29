@@ -122,7 +122,7 @@ C = 0.1
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Parth385/titanic-survival-prediction.git>
 ```
 
 Install dependencies:
